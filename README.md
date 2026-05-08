@@ -56,8 +56,8 @@ The suite utilizes a highly modular design to ensure stable, isolated data proce
 
 ## **Citation / DOI**
 
-If you use this software in your research, please cite it using the following DOI:
-(DOI will be finalized upon publication)
+If you use this software in your research, please cite it using the following DOI: ![DOI](https://zenodo.org/badge/1232613207.svg) / https://doi.org/10.5281/zenodo.20089982
+
 
 ## **License**
 
