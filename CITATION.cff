@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "PUNITHARAJ"
+    given-names: "VASANTHAKUMAR"
+    orcid: "https://orcid.org/0000-0001-5705-5238" # Optional, but highly recommended
+    affiliation: "Instituto de Ciencias Aplicadas y Tecnología, UNAM, Mexico"
+  - family-names: "Parameshwaran Sreekala"
+    given-names: "Akshana"
+    affiliation: "Instituto de Ciencias Aplicadas y Tecnología, UNAM, Mexico"
+title: "SpectraSuite: An Intuitive Open-Source Graphical Platform for High-Throughput Spectroscopic Data Treatment"
+version: "1.0.0"
+doi: "10.5281/zenodo.20089983" # Leave as placeholder or update if you already have a reserved DOI
+date-released: 2026-05-08 
+url: "https://github.com/VASU4470/spectrasuite"
+repository-code: "https://github.com/VASU4470/spectrasuite"
+keywords:
+  - "FT-IR spectroscopy"
+  - "X-ray diffraction"
+  - "baseline correction"
+  - "peak deconvolution"
+  - "open-source scientific software"
+license: "MIT" # Change if you are using a different open-source license (e.g., GPL-3.0)
